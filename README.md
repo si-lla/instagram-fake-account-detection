@@ -58,7 +58,8 @@ The dashboard provides a comprehensive view of:
 
 📷 **Dashboard Preview:**
 
-![Dashboard Screenshot](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/final-dashboard.png?raw=true)
+![Dashboard Screenshot](https://github.com/si-lla/instagram-fake-account-detection/blob/main/final-dashboard.png?raw=true)
+
 
 ---
 
@@ -69,16 +70,15 @@ The dashboard provides a comprehensive view of:
 Below are key visualizations generated during the data exploration and machine learning workflow:
 
 
-- ![Dataset Overview](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/dataset-overview.png?raw=true)
-- ![Correlation Heatmap](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/correlation-heatmap.png?raw=true)
-- ![Followers Count Comparison](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/followers-count-comparison.png?raw=true)
-- ![Following Count Comparison](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/following-count-comparison.png?raw=true)
-- ![Posts Count Comparison](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/posts-count-comparison.png?raw=true)
-- ![Profile Picture Presence](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/profile-pic-presence.png?raw=true)
-- ![Feature Importance](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/feature-importance.png?raw=true)
-- ![Decision Tree Visualization](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/decision-tree-visualization.png?raw=true)
-- ![Confusion Matrix](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/confusion-matrix.png?raw=true)
-
+- ![Dataset Overview](https://github.com/si-lla/instagram-fake-account-detection/blob/main/dataset-overview.png?raw=true)
+- ![Correlation Heatmap](https://github.com/si-lla/instagram-fake-account-detection/blob/main/correlation-heatmap.png?raw=true)
+- ![Followers Count Comparison](https://github.com/si-lla/instagram-fake-account-detection/blob/main/followers-count-comparison.png?raw=true)
+- ![Following Count Comparison](https://github.com/si-lla/instagram-fake-account-detection/blob/main/following-count-comparison.png?raw=true)
+- ![Posts Count Comparison](https://github.com/si-lla/instagram-fake-account-detection/blob/main/posts-count-comparison.png?raw=true)
+- ![Profile Picture Presence](https://github.com/si-lla/instagram-fake-account-detection/blob/main/profile-pic-presence.png?raw=true)
+- ![Feature Importance](https://github.com/si-lla/instagram-fake-account-detection/blob/main/feature-importance.png?raw=true)
+- ![Decision Tree Visualization](https://github.com/si-lla/instagram-fake-account-detection/blob/main/decision-tree-visualization.png?raw=true)
+- ![Confusion Matrix](https://github.com/si-lla/instagram-fake-account-detection/blob/main/confusion-matrix.png?raw=true)
 ---
 
 ## 📂 Project Structure
