@@ -68,6 +68,7 @@ The dashboard provides a comprehensive view of:
 
 Below are key visualizations generated during the data exploration and machine learning workflow:
 
+
 - ![Dataset Overview](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/dataset-overview.png?raw=true)
 - ![Correlation Heatmap](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/correlation-heatmap.png?raw=true)
 - ![Followers Count Comparison](https://github.com/si-lla/instagram-fake-account-detection/blob/main/assets/followers-count-comparison.png?raw=true)
