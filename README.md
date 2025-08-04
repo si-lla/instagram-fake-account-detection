@@ -99,8 +99,8 @@ Below are key visualizations generated during the data exploration and machine l
 1. Clone this repository  
 2. Run `main.py` to train and evaluate the model  
 3. Open `tableau_summary.csv` in Power BI  
-4. Use `dashboard.pbix` to view or edit the dashboard  
-
+4. Download and open in Power BI Desktop:
+   dashboard.pbix
 ---
 
 ## 🧑‍💼 Author
